@@ -1,0 +1,36 @@
+.container {
+    margin: auto;
+    background-color: aquamarine;
+    padding: 20px;
+    text-align: center;
+}
+
+.my-button {
+    font-size: 15px;
+    width: 80px;
+    height: 36px;
+    border-radius: 27px;
+    background: #44c767;
+    font-weight: bold;
+
+}
+
+.my-button:hover {
+    background: #5cbf2a
+}
+
+.css-input {
+    border-width: 2px;
+    border-style: solid;
+    padding: 10px;
+    border-radius: 27px;
+}
+
+.css-input:focus {
+    outline: none;
+}
+
+ul li {
+    list-style-type: none;
+    font-family: Arial;
+}
